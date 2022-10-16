@@ -1,5 +1,6 @@
 # LED_EQUALIZER
 https://www.youtube.com/watch?v=ydn53bQtj8U&ab_channel=Josh
+
 Code and 3D files for the LED Equalizer
 
 I took lots of inspiration from Scott Marleys ESP32 Matrix: https://www.youtube.com/watch?v=Mgh2WblO5_c&t=480s, but custom coded all my functions and features.
